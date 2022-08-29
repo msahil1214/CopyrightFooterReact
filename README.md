@@ -1,2 +1,2 @@
 # CopyrightFooterReact
-Created with CodeSandbox
+https://currentyearfooterreact.netlify.app/
