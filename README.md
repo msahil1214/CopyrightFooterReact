@@ -1,0 +1,2 @@
+# CopyrightFooterReact
+Created with CodeSandbox
